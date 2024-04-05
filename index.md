@@ -40,6 +40,8 @@ This section provides a quick guide through the ClubSearch-Manoa user interface.
   <img width="500px" src="img/landingpageadmin.png" class="img-thumbnail" >
 </div>
 
+The landing page will be the homepage where users will be able to navigate through signing in and searching through clubs.
+
 ### Login and Sign-Up Pages
 
 <div class="text-center p-4">

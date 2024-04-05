@@ -68,7 +68,7 @@ On this page users will be able to filter through clubs and view the different p
   <img width="500px" src="img/clubadminview.png" class="img-thumbnail" >
 </div>
 
-
+The YourClubs page will display all the clubs you are a member of if you are a regular user. Whereas if you are a club admin, then you will see all of the pages you are an officer of. 
 
 ## Deployment
 ### Installation

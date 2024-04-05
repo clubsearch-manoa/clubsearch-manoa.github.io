@@ -116,7 +116,7 @@ WIP
 * [Rachel Ouye](https://github.com/rachelouye)
 * [Cyril Aris](https://github.com/cyrilra)
   * 2nd Year BS in CS General
-  * Cyril enjoys crying to the sleep whenenver there's a sad kdrama he watches.
+  * Cyril enjoys crying to the sleep whenever there's a sad kdrama he watches.
 
 ## Links
 * [ClubSearch-Manoa GitHub Organization ](https://github.com/clubsearch-manoa)

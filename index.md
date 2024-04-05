@@ -40,6 +40,10 @@ This section provides a quick guide through the ClubSearch-Manoa user interface.
   <img width="500px" src="img/landingpageadmin.png" class="img-thumbnail" >
 </div>
 ### Login and Sign-Up Pages
+<div class="text-center p-4">
+  <img width="500px" src="img/signin.png" class="img-thumbnail" >
+  <img width="500px" src="img/signup.png" class="img-thumbnail" >
+</div>
 
 ### Index Pages (Browse Clubs, Your Clubs, Admin)
 

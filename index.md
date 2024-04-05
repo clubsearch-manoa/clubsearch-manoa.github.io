@@ -46,7 +46,7 @@ This section provides a quick guide through the ClubSearch-Manoa user interface.
   <img width="500px" src="img/signin.png" class="img-thumbnail" >
 </div>
 
-<div>
+<div class="text-center p-4">
   <img width="500px" src="img/signup.png" class="img-thumbnail" >
 </div>
 

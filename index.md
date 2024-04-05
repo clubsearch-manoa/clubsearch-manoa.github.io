@@ -101,7 +101,7 @@ This milestone will be the beginning and the foundation of the project webpage. 
 
 This is milestone was managed using the [ClubSearch-Manoa GitHub Project Board M1:](https://github.com/orgs/clubsearch-manoa/projects/1)
 <div class="text-center p-4">
-  <img width="500px" src="img/milestone1.png" class="img-thumbnail" >
+  <img width="1000px" src="img/milestone1.png" class="img-thumbnail" >
 </div>
 
 #### Milestone 2 
@@ -115,6 +115,8 @@ WIP
 * [Tristan Yousuf-Leo](https://github.com/tristanyousufleo) 
 * [Rachel Ouye](https://github.com/rachelouye)
 * [Cyril Aris](https://github.com/cyrilra)
+  * 2nd Year BS in CS General
+  * Cyril enjoys crying to the sleep whenenver there's a sad kdrama he watches.
 
 ## Links
 * [ClubSearch-Manoa GitHub Organization ](https://github.com/clubsearch-manoa)

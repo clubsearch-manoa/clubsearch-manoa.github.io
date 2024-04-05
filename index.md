@@ -97,7 +97,13 @@ This subsection will be documentating our development process of ClubSearch-Mano
 This subsection is still a work in progress. 
 
 #### Milestone 1 
-https://github.com/orgs/clubsearch-manoa/projects/1
+This milestone will be the beginning and the foundation of the project webpage. It will mainly consist of a set of HTML pages consisting of mockups of our system. We will be updating the following screenshots of the project board as our deployment progresses. 
+
+This is milestone was managed using the [ClubSearch-Manoa GitHub Project Board M1:](https://github.com/orgs/clubsearch-manoa/projects/1)
+<div class="text-center p-4">
+  <img width="500px" src="img/milestone1.png" class="img-thumbnail" >
+</div>
+
 #### Milestone 2 
 WIP
 #### Milestone 3 

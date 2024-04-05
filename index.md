@@ -70,6 +70,11 @@ On this page users will be able to filter through clubs and view the different p
 
 The YourClubs page will display all the clubs you are a member of if you are a regular user. Whereas if you are a club admin, then you will see all of the pages you are an officer of. 
 
+<div class="text-center p-4">
+  <img width="500px" src="img/superadminpage.png" class="img-thumbnail" >
+</div>
+
+The Admin page will allow the super admin user to add clubs within the database. 
 ## Deployment
 ### Installation
 First, [install Meteor](https://www.meteor.com/install)
@@ -86,6 +91,17 @@ After, run the system with:
 $ meteor npm run start
 ```
 Finally, the application should accessible at http://localhost:3000 if all things go well. 
+
+### History
+This subsection will be documentating our development process of ClubSearch-Manoa. 
+This subsection is still a work in progress. 
+
+#### Milestone 1 
+WIP
+#### Milestone 2 
+WIP
+#### Milestone 3 
+WIP
 
 ## Meet the Developers
 * [Tyler Cho](https://github.com/tycho01) 

@@ -110,10 +110,18 @@ WIP
 WIP
 
 ## Meet the Developers
-* [Tyler Cho](https://github.com/tycho01) 
+* [Tyler Cho](https://github.com/tycho01)
+  * 4th Year BS in CS General
+  * Tyler wants to poke around systems without serving time in a federal prison for a living!
 * [Sage Colon](https://github.com/sage-hoku)
-* [Tristan Yousuf-Leo](https://github.com/tristanyousufleo) 
+  * 3rd Year BS in CS General
+  * Fun Fact! please love me...
+* [Tristan Yousuf-Leo](https://github.com/tristanyousufleo)
+  * 2nd Year BS in CS General
+  * Tristan aspires to be a SOC analyst!
 * [Rachel Ouye](https://github.com/rachelouye)
+  * 4th Year BS in CS General
+  * fun fact! rachel is not fun.
 * [Cyril Aris](https://github.com/cyrilra)
   * 2nd Year BS in CS General
   * Cyril enjoys crying to the sleep whenever there's a sad kdrama he watches.

@@ -97,7 +97,7 @@ This subsection will be documentating our development process of ClubSearch-Mano
 This subsection is still a work in progress. 
 
 #### Milestone 1 
-WIP
+https://github.com/orgs/clubsearch-manoa/projects/1
 #### Milestone 2 
 WIP
 #### Milestone 3 

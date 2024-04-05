@@ -56,9 +56,13 @@ This section provides a quick guide through the ClubSearch-Manoa user interface.
   <img width="500px" src="img/browseclubs.png" class="img-thumbnail" >
 </div>
 
+In the sign-in page the user will be allowed to sign in wth their username and password. If they do not have login credentials, they are able to sign up. 
+
 <div class="text-center p-4">
   <img width="500px" src="img/clubadminview.png" class="img-thumbnail" >
 </div>
+
+The sign up page will require the user to create a username, password, upload profile picture, and indicate their interests. 
 
 ## Deployment
 ### Installation

@@ -62,9 +62,12 @@ The sign up page will require the user to create a username, password, upload pr
   <img width="500px" src="img/browseclubs.png" class="img-thumbnail" >
 </div>
 
+On this page users will be able to filter through clubs and view the different profiles.
+
 <div class="text-center p-4">
   <img width="500px" src="img/clubadminview.png" class="img-thumbnail" >
 </div>
+
 
 
 ## Deployment

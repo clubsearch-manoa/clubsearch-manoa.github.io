@@ -36,7 +36,9 @@ The ClubSearch-Manoa project implements the following resources and technologies
 ## User Experience
 This section provides a quick guide through the ClubSearch-Manoa user interface.
 ### Landing Page
-<img width="400px" src="../img/landingpageadmin.png">
+<div class="text-center p-4">
+  <img width="500px" src="img/landingpageadmin.png" class="img-thumbnail" >
+</div>
 ### Login and Sign-Up Pages
 
 ### Index Pages (Browse Clubs, Your Clubs, Admin)

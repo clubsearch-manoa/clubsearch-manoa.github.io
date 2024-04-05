@@ -46,6 +46,13 @@ This section provides a quick guide through the ClubSearch-Manoa user interface.
 </div>
 
 ### Index Pages (Browse Clubs, Your Clubs, Admin)
+<div class="text-center p-4">
+  <img width="500px" src="img/browseclubs.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="500px" src="img/clubadminview.png" class="img-thumbnail" >
+</div>
 
 ## Deployment
 ### Installation

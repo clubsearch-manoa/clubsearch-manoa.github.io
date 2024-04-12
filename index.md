@@ -90,7 +90,7 @@ After, run the system with:
 ```angular2html
 $ meteor npm run start
 ```
-Finally, the application should accessible at http://localhost:3000 if all things go well. 
+Finally, the application should accessible at [http://64.23.255.57](http://64.23.255.57/) if all things go well. 
 
 ### History
 This subsection will be documentating our development process of ClubSearch-Manoa. 

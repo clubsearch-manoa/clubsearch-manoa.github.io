@@ -104,6 +104,27 @@ This is milestone was managed using the [ClubSearch-Manoa GitHub Project Board M
   <img width="1000px" src="img/milestone1.png" class="img-thumbnail" >
 </div>
 
+<div class="text-center p-4">
+  <img width="1000px" src="img/landing.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="1000px" src="img/SignUp.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="1000px" src="img/SignOut.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="1000px" src="img/SignIn.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="1000px" src="img/AddClub.png" class="img-thumbnail" >
+</div>
+
+
 #### Milestone 2 
 WIP
 #### Milestone 3 

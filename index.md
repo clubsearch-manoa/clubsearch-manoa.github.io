@@ -126,7 +126,9 @@ This is milestone was managed using the [ClubSearch-Manoa GitHub Project Board M
 
 
 #### Milestone 2 
-WIP
+Thi milestone will be the meat of our project's webpage. It will contain the core functionalities of our project including a database for our clubs. Screenshots will be updated as our efforts on this projecy continue.
+
+This milestone is managed using the [ClubSearch-Manoa GitHub Project Board M2:](https://github.com/orgs/clubsearch-manoa/projects/2)
 #### Milestone 3 
 WIP
 

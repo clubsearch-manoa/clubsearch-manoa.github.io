@@ -2,7 +2,7 @@
 layout: default
 title: ClubSearch-Manoa
 ---
-#### Search through the many diverse and interesting clubs established here on UH Manoa!
+#### Search through the many diverse and interesting clubs established here at UH Manoa!
 
 <hr style="
     border: 0;
@@ -23,7 +23,7 @@ rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 At UH Manoa, there are over 200 [Registered Independent Organizations](https://manoa.hawaii.edu/studentlife/involvement/registered-independent-organizations/),  not including the active organizations that are not registered. However, despite this large number of organizations, there is no easy and interactive way for students to learn what kind of clubs are out there, least of all how to join them. This leads to a lack of student involvement in extracurricular activities and can affect their networking opportunities.
 
 ### Our Solution
-The application, ClubSearch-Manoa, will gives students the opportunity to browse through a plethora of clubs, each detailing what they do as well as contact info and meet times. The webapp must account for club admins who wish to change what's displayed on page, as well as a super admin who can regulate the material on the site as well as convert regular users to club admins should they take on a leadership role in a club. Users will be allowed to narrow down the clubs they wish to view based off their own interests.
+The application, ClubSearch-Manoa, will give students the opportunity to browse through a plethora of clubs, each detailing what they do as well as contact info and meet times. The web-app must account for club admins who wish to change the club info displayed, as well as a super admin who can regulate the material on the site as well as convert regular users to club admins should they take on a leadership role in a club. Users will be allowed to narrow down the clubs they wish to view based off their own interests.
 
 ### Features 
 The ClubSearch-Manoa project implements the following resources and technologies:
@@ -54,7 +54,7 @@ In the sign-in page the user will be allowed to sign in wth their username and p
   <img width="500px" src="img/signup.png" class="img-thumbnail" >
 </div>
 
-The sign up page will require the user to create a username, password, upload profile picture, and indicate their interests. 
+The sign up page will require the user to create a username, password, upload a profile picture, and indicate their interests. 
 
 ### Index Pages (Browse Clubs, Your Clubs, Admin)
 
@@ -68,13 +68,13 @@ On this page users will be able to filter through clubs and view the different p
   <img width="500px" src="img/clubadminview.png" class="img-thumbnail" >
 </div>
 
-The YourClubs page will display all the clubs you are a member of if you are a regular user. Whereas if you are a club admin, then you will see all of the pages you are an officer of. 
+The YourClubs page will display all the clubs you are a member of if you are a regular user. Whereas if you are a club admin, then you will see all of the clubs you are an officer of. 
 
 <div class="text-center p-4">
   <img width="500px" src="img/superadminpage.png" class="img-thumbnail" >
 </div>
 
-The Admin page will allow the super admin user to add clubs within the database. 
+The Admin page will allow the super admin to add new clubs. 
 ## Deployment
 ### Installation
 First, [install Meteor](https://www.meteor.com/install)
@@ -90,10 +90,10 @@ After, run the system with:
 ```angular2html
 $ meteor npm run start
 ```
-Finally, the application should accessible at [http://64.23.255.57](http://64.23.255.57/) if all things go well. 
+Finally, the application should be accessible at [https://clubsearch-manoa.xyz](https://clubsearch-manoa.xyz/) 
 
 ### History
-This subsection will be documentating our development process of ClubSearch-Manoa. 
+This subsection will be documenting our development process of ClubSearch-Manoa. 
 This subsection is still a work in progress. 
 
 #### Milestone 1 
@@ -126,7 +126,7 @@ This is milestone was managed using the [ClubSearch-Manoa GitHub Project Board M
 
 
 #### Milestone 2 
-Thi milestone will be the meat of our project's webpage. It will contain the core functionalities of our project including a database for our clubs. Screenshots will be updated as our efforts on this projecy continue.
+This milestone will be the meat of our project. It will contain core functionalities such as adding and editing clubs which are read from the database. Screenshots will be updated as our efforts on this project continue.
 
 This milestone is managed using the [ClubSearch-Manoa GitHub Project Board M2:](https://github.com/orgs/clubsearch-manoa/projects/2)
 #### Milestone 3 
@@ -148,7 +148,7 @@ WIP
   * fun fact! Rachel loves learning so much shes been in college for 10 years!
 * [Cyril Aris](https://github.com/cyrilra)
   * 2nd Year BS in CS General
-  * Cyril enjoys crying to the sleep whenever there's a sad kdrama he watches.
+  * Cyril enjoys crying himself to sleep whenever there's a sad kdrama he watches.
 
 ## Links
 * [ClubSearch-Manoa GitHub Organization ](https://github.com/clubsearch-manoa)

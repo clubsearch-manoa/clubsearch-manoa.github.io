@@ -95,7 +95,7 @@ Finally, the application should be accessible at [https://clubsearch-manoa.xyz](
 
 ### History
 This subsection will be documenting our development process of ClubSearch-Manoa. 
-This subsection is still a work in progress. 
+[![ci-bowfolios](https://github.com/clubsearch-manoa/clubsearch-manoa/actions/workflows/ci.yml/badge.svg)](https://github.com/clubsearch-manoa/clubsearch-manoa/actions/workflows/ci.yml)
 
 #### Milestone 1 
 This milestone will be the beginning and the foundation of the project webpage. It will mainly consist of a set of HTML pages consisting of mockups of our system. We will be updating the following screenshots of the project board as our deployment progresses. 

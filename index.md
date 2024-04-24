@@ -131,11 +131,15 @@ This milestone will be the meat of our project. It will contain core functionali
 
 This milestone is managed using the [ClubSearch-Manoa GitHub Project Board M2:](https://github.com/orgs/clubsearch-manoa/projects/2)
 <div class="text-center p-4">
-  <img width="500px" src="img/DeleteClub.png" class="img-thumbnail" >
+  <img width="1000px" src="img/DeleteClub.png" class="img-thumbnail" >
 </div>
 
 <div class="text-center p-4">
-  <img width="500px" src="img/BrowseClubUpdate.png" class="img-thumbnail" >
+  <img width="1000px" src="img/BrowseClubUpdate.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="1000px" src="img/EditClubUpdate.png" class="img-thumbnail" >
 </div>
 
 #### Milestone 3 

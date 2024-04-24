@@ -59,7 +59,7 @@ The sign up page will require the user to create a username, password, upload a 
 ### Index Pages (Browse Clubs, Your Clubs, Admin)
 
 <div class="text-center p-4">
-  <img width="500px" src="img/browseclubs.png" class="img-thumbnail" >
+  <img width="500px" src="img/BrowseClubUpdate.png" class="img-thumbnail" >
 </div>
 
 On this page users will be able to filter through clubs and view the different profiles.
@@ -71,10 +71,11 @@ On this page users will be able to filter through clubs and view the different p
 The YourClubs page will display all the clubs you are a member of if you are a regular user. Whereas if you are a club admin, then you will see all of the clubs you are an officer of. 
 
 <div class="text-center p-4">
-  <img width="500px" src="img/superadminpage.png" class="img-thumbnail" >
+  <img width="500px" src="img/DeleteClub.png" class="img-thumbnail" >
 </div>
 
-The Admin page will allow the super admin to add new clubs. 
+The Admin pages will allow the super admin to add new clubs and delete clubs as well.
+
 ## Deployment
 ### Installation
 First, [install Meteor](https://www.meteor.com/install)

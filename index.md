@@ -139,7 +139,9 @@ This milestone is managed using the [ClubSearch-Manoa GitHub Project Board M2:](
 </div>
 
 #### Milestone 3 
-WIP
+This milestone will be the culmination of our efforts. All of the core functionalities will be implemented fully and the database will be populated with a variety of clubs. In addition, small-scale testing will commence using non-314 members.
+
+This milestone is managed using the [ClubSearch-Manoa GitHub Project Board M3:](https://github.com/orgs/clubsearch-manoa/projects/3)
 
 ## Meet the Developers
 * [Tyler Cho](https://github.com/tycho01)

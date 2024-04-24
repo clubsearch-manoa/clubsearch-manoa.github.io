@@ -130,6 +130,14 @@ This is milestone was managed using the [ClubSearch-Manoa GitHub Project Board M
 This milestone will be the meat of our project. It will contain core functionalities such as adding and editing clubs which are read from the database. Screenshots will be updated as our efforts on this project continue.
 
 This milestone is managed using the [ClubSearch-Manoa GitHub Project Board M2:](https://github.com/orgs/clubsearch-manoa/projects/2)
+<div class="text-center p-4">
+  <img width="500px" src="img/DeleteClub.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="500px" src="img/BrowseClubUpdate.png" class="img-thumbnail" >
+</div>
+
 #### Milestone 3 
 WIP
 

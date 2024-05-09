@@ -76,6 +76,9 @@ The YourClubs page will display all the clubs you are a member of if you are a r
 
 The Admin pages will allow the super admin to add new clubs and delete clubs as well.
 
+### Community Feedback
+Testers noted the ease of navigating the website and finding clubs that they have an interest in. They'd also expressed interest for the inclusion of contact emails for different clubs and the current number of clubs listed in the database. However, they also noted that making an account necessary for being able to view clubs should instead be a default function of the website that would not require the registration of an account. In addition, they expressed a desire for a search bar to help ease navigation even more. Overall, the feedback from testers have been moderately positive and some even mentioned that they wished this kind of website was available to them when they first started college.
+
 ## Deployment
 ### Installation
 First, [install Meteor](https://www.meteor.com/install)

@@ -150,6 +150,22 @@ This milestone will be the culmination of our efforts. All of the core functiona
 
 This milestone is managed using the [ClubSearch-Manoa GitHub Project Board M3:](https://github.com/orgs/clubsearch-manoa/projects/3)
 
+<div class="text-center p-4">
+  <img width="1000px" src="img/image-new-landing.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="1000px" src="img/image-home.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="1000px" src="img/image-clubs.png" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="1000px" src="img/clubsearch_logo.png" class="img-thumbnail" >
+</div>
+
 ## Meet the Developers
 * [Tyler Cho](https://github.com/tycho01)
   * 4th Year BS in CS General
